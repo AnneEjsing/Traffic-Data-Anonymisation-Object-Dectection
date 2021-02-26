@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 keras_resnet==0.2.0
 lxml==4.2.1
 pycocotools==2.0
